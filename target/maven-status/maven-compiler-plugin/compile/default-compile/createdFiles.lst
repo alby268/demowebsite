@@ -1,0 +1,5 @@
+com/albin/demowebsite/DemowebsiteApplication.class
+com/albin/demowebsite/model/Detail.class
+com/albin/demowebsite/service/HomeService.class
+com/albin/demowebsite/HomeController.class
+com/albin/demowebsite/ServletInitializer.class
